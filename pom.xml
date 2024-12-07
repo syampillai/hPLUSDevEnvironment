@@ -14,7 +14,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java-version>21</java-version>
-        <ext-jars>/home/${user.name}/IdeaProjects/hPLUS/ext-jars</ext-jars>
+        <ext-jars>/home/${user.name}/hplus/so/ext-jars</ext-jars>
         <dev-jars>/home/${user.name}/hplus/so/jars</dev-jars>
     </properties>
 
