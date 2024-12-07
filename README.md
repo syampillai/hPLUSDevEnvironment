@@ -4,4 +4,6 @@
 (2) Create the following folders.  
 mkdir -p ~/hplusdev/src/main/java/logic/  
 mkdir -p ~/hplusdev/target/classes/logic/  
-(3) 
+(3) Create an IntelliJ IDEA project using the POM file available here and create soft-link in the project's folder.  
+ln -s ~/hplusdev/src .  
+(4) Now you can edit source files loaded from hPLUS in this project.  
